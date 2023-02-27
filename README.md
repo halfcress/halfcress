@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in **Schott Orim as a Maintenance Engineer**
 
-- 🌱 I’m currently learning **Django, Tensorflow and StableDiffusion**
+- 🌱 I’m currently learning **Tensorflow and StableDiffusion**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ozan-g%C3%B6zl%C3%BCkl%C3%BC/](https://www.linkedin.com/in/ozan-g%C3%B6zl%C3%BCkl%C3%BC/)
 
