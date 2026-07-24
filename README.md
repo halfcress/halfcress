@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halfcress" alt="halfcress" /></a> </p>
 
-- 🔭 I’m currently working in **Schott Orim as a Maintenance Engineer**
-
 - 🌱 I’m currently learning **Tensorflow and StableDiffusion**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ozan-g%C3%B6zl%C3%BCkl%C3%BC/](https://www.linkedin.com/in/ozan-g%C3%B6zl%C3%BCkl%C3%BC/)
